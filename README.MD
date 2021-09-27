@@ -1,1 +1,1 @@
-Práctica JS a través de la creación de una calculadora básica que permite al usuario ingresar a través de 3 inputs: número1 a calcular, operador para realizar el cálculo y el número2.
+Práctica JS a través de la creación de una calculadora básica que permite al usuario ingresar a través de 3 inputs: número1 a calcular, operador para realizar el cálculo y el número2. 

@@ -27,7 +27,10 @@ function matematica (){
     else if (op2 === '/'){
         resultado = numero1_1 / numero2_2;
     }
-    console.log(resultado);
+    else {
+        alert(`Debes ingresar un operador, puede ser +, -, * o /`)
+    }
+    alert(`El resultado es ${resultado}`);
 };
     
 function calcular(){   
